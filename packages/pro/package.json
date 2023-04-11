@@ -1,5 +1,5 @@
 {
-  "name": "pro",
+  "name": "pro-vue",
   "version": "1.0.1",
   "main": "lib/index.js",
   "module": "es/index.mjs",
