@@ -1,6 +1,6 @@
 {
   "name": "pro-vue",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "main": "lib/index.js",
   "module": "es/index.mjs",
   "files": [
@@ -18,7 +18,7 @@
   "license": "MIT",
   "description": "",
   "typings": "lib/index.d.ts",
-    "scripts": {
+  "scripts": {
     "release": "release-it"
   },
   "repository": {
@@ -26,4 +26,3 @@
     "url": "https://github.com/ProsperousYe/pro.git"
   }
 }
-
