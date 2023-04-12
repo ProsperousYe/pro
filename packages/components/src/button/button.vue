@@ -3,7 +3,6 @@
 </template>
 
 <script lang="ts" setup>
-//123
 import "./style/index.less";
 import { computed } from "vue";
 defineOptions({ name: "pro-button" });

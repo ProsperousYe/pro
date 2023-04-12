@@ -1,12 +1,14 @@
-import * as t from "./src/index.mjs";
-import { Button as s } from "./src/button/index.mjs";
+import * as o from "./src/index.mjs";
+import { Button as i } from "./src/button/index.mjs";
+import { Countdown as x } from "./src/countdown/index.mjs";
 const n = {
-  install: (o) => {
-    for (let e in t)
-      o.use(t[e]);
+  install: (t) => {
+    for (let e in o)
+      t.use(o[e]);
   }
 };
 export {
-  s as Button,
+  i as Button,
+  x as Countdown,
   n as default
 };

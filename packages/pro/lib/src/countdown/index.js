@@ -1,0 +1,1 @@
+"use strict";Object.defineProperties(exports,{__esModule:{value:!0},[Symbol.toStringTag]:{value:"Module"}});const o=require("./countdown.vue.js"),l=e=>(e.install=n=>{const u=e.name;n.component(u,e)},e),t=l(o.default);exports.Countdown=t;exports.default=t;

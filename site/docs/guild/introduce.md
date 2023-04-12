@@ -12,6 +12,4 @@
 ## 参考
 Pro-UI的开发环境参考了以下项目:
 - [easyest-vue3-component](https://easyestui.github.io/easyest/) 一个简单的vue3组件库开发环境
-- [vite-plugin-components]() Vite插件,用于自动导入组件
-- [vite-plugin-style-import]() Vite插件,用于自动导入样式
 - [vitepress]() Vite的文档框架

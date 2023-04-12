@@ -59,3 +59,6 @@
   border-color: #f78989;
   color: #fff;
 }
+.ea-button.ea-button--bold {
+  font-weight: 600;
+}
