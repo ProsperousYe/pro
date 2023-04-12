@@ -2,6 +2,7 @@ export default {
     title: 'Pro',
     base: process.env.NODE_ENV === 'production' ? '/pro/' : '/',
     themeConfig: {
+      logo: "/logo.jpg",
       siteTitle: "Pro-UI",
       nav: [
         { text: "介绍", link: "/guild/introduce" },
@@ -29,6 +30,10 @@ export default {
                     {
                         text: "Button",
                         link: "/components/button/index.md",
+                    },
+                    {
+                        text: "Countdown",
+                        link: "/components/countdown/index.md"
                     }
                 ],
             }
